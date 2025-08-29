@@ -1,1 +1,3 @@
+Good commit
 wrong file
+Good commit
